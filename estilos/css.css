@@ -3,6 +3,7 @@
   padding: 0;
 }
 body {
+  background-color: #fabada;
   padding-top: 50px;
   font-family: sans-serif;
 }
@@ -84,8 +85,8 @@ body {
     margin-right: 2%;
   }
 }
-@media screen and (min-width:1201px){
-.articulos{
-  width:1200px;
+@media screen and (min-width: 1201px) {
+  .articulos {
+    width: 1200px;
+  }
 }
-}  
